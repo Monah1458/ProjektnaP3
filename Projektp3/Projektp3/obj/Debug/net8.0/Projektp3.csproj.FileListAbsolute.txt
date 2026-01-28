@@ -1,0 +1,16 @@
+C:\Users\piecu\source\repos\Projektp3\Projektp3\bin\Debug\net8.0\Projektp3.exe
+C:\Users\piecu\source\repos\Projektp3\Projektp3\bin\Debug\net8.0\Projektp3.deps.json
+C:\Users\piecu\source\repos\Projektp3\Projektp3\bin\Debug\net8.0\Projektp3.runtimeconfig.json
+C:\Users\piecu\source\repos\Projektp3\Projektp3\bin\Debug\net8.0\Projektp3.dll
+C:\Users\piecu\source\repos\Projektp3\Projektp3\bin\Debug\net8.0\Projektp3.pdb
+C:\Users\piecu\source\repos\Projektp3\Projektp3\obj\Debug\net8.0\Projektp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piecu\source\repos\Projektp3\Projektp3\obj\Debug\net8.0\Projektp3.AssemblyInfoInputs.cache
+C:\Users\piecu\source\repos\Projektp3\Projektp3\obj\Debug\net8.0\Projektp3.AssemblyInfo.cs
+C:\Users\piecu\source\repos\Projektp3\Projektp3\obj\Debug\net8.0\Projektp3.csproj.CoreCompileInputs.cache
+C:\Users\piecu\source\repos\Projektp3\Projektp3\obj\Debug\net8.0\Projektp3.dll
+C:\Users\piecu\source\repos\Projektp3\Projektp3\obj\Debug\net8.0\refint\Projektp3.dll
+C:\Users\piecu\source\repos\Projektp3\Projektp3\obj\Debug\net8.0\Projektp3.pdb
+C:\Users\piecu\source\repos\Projektp3\Projektp3\obj\Debug\net8.0\Projektp3.genruntimeconfig.cache
+C:\Users\piecu\source\repos\Projektp3\Projektp3\obj\Debug\net8.0\ref\Projektp3.dll
+C:\Users\piecu\source\repos\Projektp3\Projektp3\bin\Debug\net8.0\TextFile1.txt
+C:\Users\piecu\source\repos\Projektp3\Projektp3\bin\Debug\net8.0\TextFile2.txt
